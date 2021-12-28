@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/busqueda-mocking/static/css/main.5b74c108.css",
+    "main.js": "/busqueda-mocking/static/js/main.12c79014.js",
+    "static/js/787.abc53bb4.chunk.js": "/busqueda-mocking/static/js/787.abc53bb4.chunk.js",
+    "index.html": "/busqueda-mocking/index.html",
+    "main.5b74c108.css.map": "/busqueda-mocking/static/css/main.5b74c108.css.map",
+    "main.12c79014.js.map": "/busqueda-mocking/static/js/main.12c79014.js.map",
+    "787.abc53bb4.chunk.js.map": "/busqueda-mocking/static/js/787.abc53bb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b74c108.css",
+    "static/js/main.12c79014.js"
+  ]
+}
